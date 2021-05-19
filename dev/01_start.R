@@ -25,7 +25,7 @@ golem::fill_desc(
   author_first_name = "Taiasean", # Your First Name
   author_last_name = "Wu", # Your Last Name
   author_email = "taiawu@gmaillcom", # Your Email
-  repo_url = NULL # The URL of the GitHub Repo (optional) 
+  repo_url = "https://github.com/taiawu/titanmockup" # The URL of the GitHub Repo (optional) 
 )     
 
 ## Set {golem} options ----
